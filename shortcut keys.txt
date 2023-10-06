@@ -1,0 +1,25 @@
+ctr+shift+p :list of my_prog ,at left side
+alt + shift +downarro : copys same line below
+alt + shift +uparro : copys same line above
+ctr + , : too open the settig in vs code
+ctr + w : to close the tab of vs code
+ctr + ` :terminal open and close for run program
+ctr +shift+ ` :new terminal created
+ctr + b :sidebar close and open
+ctr + w :to close the tab in 
+ctr + shift + w: close the vs code 
+
+ctr + shift + e :side bar folder opening
+ctr + page up (or) page down :to change the opend tab
+https://www.youtube.com/watch?v=H9M02of22z4
+
+
+for go small project
+https://www.youtube.com/watch?v=jFfo23yIWac
+
+
+ideas for creating new projects for job
+=>social media clone (create some social media fratures in the your project)
+=> live cricket website like live score
+
+805398608
