@@ -6,7 +6,7 @@ import (
 
 func main() {
 	// var num int
-
+	fmt.Println("this is small changes")
 	// fmt.Printf("enter the fist number")
 	// fmt.Scanln(&num)
 
